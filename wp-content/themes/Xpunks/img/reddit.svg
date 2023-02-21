@@ -1,0 +1,10 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g id="Group">
+    <path id="Path" fill-rule="evenodd" clip-rule="evenodd" d="M12.0002 8C14.6482 8 17.0282 8.826 18.6752 10.14C19.8394 9.73191 21.1273 10.2341 21.7079 11.3225C22.2886 12.411 21.9885 13.7603 21.0012 14.5C21.0012 18.09 16.9712 21 12.0012 21C7.12619 21 3.15619 18.2 3.00119 14.706L2.0012 14.5C1.0139 13.7603 0.71378 12.411 1.29446 11.3225C1.87513 10.2341 3.16298 9.73191 4.32719 10.14C5.97319 8.827 8.35319 8 11.0012 8H12.0002Z" stroke="#EEEEEE" stroke-linecap="round" stroke-linejoin="round" />
+    <path id="Path_2" d="M12 8L13 3L19 4" stroke="#EEEEEE" stroke-linecap="round" stroke-linejoin="round" />
+    <circle id="Oval" cx="19" cy="4" r="1" stroke="#EEEEEE" stroke-linecap="round" stroke-linejoin="round" />
+    <circle id="Oval_2" cx="9" cy="13" r="0.5" fill="#EEEEEE" stroke="#EEEEEE" stroke-linecap="round" stroke-linejoin="round" />
+    <circle id="Oval_3" cx="15" cy="13" r="0.5" fill="#EEEEEE" stroke="#EEEEEE" stroke-linecap="round" stroke-linejoin="round" />
+    <path id="Path_3" d="M10 17C10.667 17.333 11.333 17.5 12 17.5C12.667 17.5 13.333 17.333 14 17" stroke="#EEEEEE" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g id="Group">
+    <rect id="Rectangle" x="4" y="4" width="16" height="16" rx="4" stroke="#EEEEEE" stroke-linecap="round" stroke-linejoin="round" />
+    <circle id="Oval" cx="12" cy="12" r="3" stroke="#EEEEEE" stroke-linecap="round" stroke-linejoin="round" />
+    <path id="Path" d="M16.5 7.49999V7.50099" stroke="#EEEEEE" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+</svg>
